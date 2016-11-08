@@ -1,4 +1,4 @@
-# RESTfulHelloWorld
+# jena-reasoning-with-rules
 Reasoning with Apache Jena and rules
 
 ## About
